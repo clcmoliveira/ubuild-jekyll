@@ -6,21 +6,21 @@ webhook_url:
 sections:
 - type: document
   path: FORESTRY-README.md
-  label: Welcome - First Steps
+  label: Primeiros Passos
   read_only: true
 - type: jekyll-posts
-  label: Posts
+  label: Blog
   create: all
 - type: directory
   path: ''
-  label: Pages
+  label: Páginas
   create: all
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
 - type: document
   path: _config.yml
-  label: Config
+  label: Configuração
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
