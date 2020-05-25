@@ -37,8 +37,8 @@ page_sections:
     2006</span>
   content: desde contos do cotidiano até as crônicas de ficção
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/05/25/28695-9c27b0.svg"
+    alt_text: stylo
 - template: content-feature
   block: feature-1
   media_alignment: Right
