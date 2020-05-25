@@ -20,13 +20,12 @@ page_sections:
     button_text: Ouça Já
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: oi, eu sou a<br><strong>milla</strong>
+  content: Estou preparando o mais novo site para vocês.
   cta:
     enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "#"
+    button_text: Ouça os Podcasts
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
