@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/teste.md
+- _posts/2020-05-25-teste.md
 - index.md
