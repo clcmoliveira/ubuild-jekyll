@@ -37,8 +37,8 @@ page_sections:
     2006</span>
   content: desde contos do cotidiano até as crônicas de ficção
   media:
-    image: "/uploads/2020/05/25/28695-9c27b0.svg"
-    alt_text: stylo
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: '2020 ❤︎ studio<strong>urbanna</strong>. '
