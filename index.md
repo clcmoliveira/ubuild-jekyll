@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#sobre"
+    link_text: Sobre
+  - link: "#loja"
+    link_text: Loja
+  - link: "#redes"
+    link_text: Redes
   cta:
     url: "#"
     button_text: Ouça Já
