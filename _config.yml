@@ -13,3 +13,7 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+menu:
+  main:
+    weight: 2
+    title: Sobre
